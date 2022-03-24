@@ -26,6 +26,8 @@ function draw(){
 
     if (x > width){
         x = 0
+        vel =  2;
+        acc = 1;
     }
 }
 
